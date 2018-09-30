@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', '*');
+define('HTTP_SERVER', '');
 
 // HTTPS
-define('HTTPS_SERVER', '*');
+define('HTTPS_SERVER', '');
 
 // DIR
 define('DIR_APPLICATION', '/app/catalog/');
