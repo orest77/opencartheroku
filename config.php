@@ -1,9 +1,9 @@
 <?php
 // HTTP
-#define('HTTP_SERVER', '');
+define('HTTP_SERVER', 'http://boom-set.herokuapp.com');
 
 // HTTPS
-#define('HTTPS_SERVER', '');
+define('HTTPS_SERVER', 'http://boom-set.herokuapp.com');
 
 // DIR
 define('DIR_APPLICATION', '/app/catalog/');

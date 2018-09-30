@@ -1,11 +1,11 @@
 <?php
 // HTTP
-#define('HTTP_SERVER', '/opencart/admin/');
-#define('HTTP_CATALOG', '/opencart/');
+define('HTTP_SERVER', 'http://boom-set.herokuapp.com/admin/');
+define('HTTP_CATALOG', 'http://boom-set.herokuapp.com');
 
 // HTTPS
-#define('HTTPS_SERVER', '/opencart/admin/');
-#define('HTTPS_CATALOG', '/opencart/');
+define('HTTPS_SERVER', 'http://boom-set.herokuapp.com/admin/');
+define('HTTPS_CATALOG', 'http://boom-set.herokuapp.com');
 
 // DIR
 define('DIR_APPLICATION', 'app/admin/');
