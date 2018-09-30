@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', '/opencart/admin/');
-define('HTTP_CATALOG', '/opencart/');
+#define('HTTP_SERVER', '/opencart/admin/');
+#define('HTTP_CATALOG', '/opencart/');
 
 // HTTPS
-define('HTTPS_SERVER', '/opencart/admin/');
-define('HTTPS_CATALOG', '/opencart/');
+#define('HTTPS_SERVER', '/opencart/admin/');
+#define('HTTPS_CATALOG', '/opencart/');
 
 // DIR
 define('DIR_APPLICATION', 'app/admin/');
