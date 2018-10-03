@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://boom-set.herokuapp.com/admin/');
-define('HTTP_CATALOG', 'http://boom-set.herokuapp.com');
+define('HTTP_SERVER', '/admin/');
+define('HTTP_CATALOG', '/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://boom-set.herokuapp.com/admin/');
-define('HTTPS_CATALOG', 'http://boom-set.herokuapp.com');
+define('HTTPS_SERVER', '/admin/');
+define('HTTPS_CATALOG', '/');
 
 // DIR
 define('DIR_APPLICATION', 'app/admin/');
